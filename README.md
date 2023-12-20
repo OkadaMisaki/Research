@@ -13,7 +13,7 @@ pip install -r requirements.txt<br><br>
 <h3>streaming.py</h3>
 google cloud speech-to-text APIを利用してリアルタイムなストリーミングができるコードです。<br><br>
 os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = 'your/json/path'には、jsonファイルのパスを入れてください。<br>
-input_device_indexは使用するaudioのインデックス番号を入れてください。インデックス番号はaudio.pyを実行すれば確認できると思います。<br>
+input_device_indexは、使用するaudioのインデックス番号を入れてください。インデックス番号はaudio.pyを実行すれば確認できます。<br>
 話者識別機能があるため、話者の人数に合わせて数値を調整してください。<br><br><br>
 
 
