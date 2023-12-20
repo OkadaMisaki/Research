@@ -4,7 +4,7 @@ streamlingファイルには、３つのファイルが入っています。
 以下のコードを実行するときに必要なモジュールが書いてあります。
 
 ターミナル上でこのテキストファイルが置いてあるディレクトリで、<br><br>
-pip install -r requirements.txt　<br><br>
+pip install -r requirements.txt<br><br>
 と実行すればまとめてインストールできます。
 
 jsonファイルは下のURLから取得してください<br>
