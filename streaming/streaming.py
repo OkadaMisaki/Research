@@ -11,7 +11,7 @@ from six.moves import queue
 
 # Audio recording parameters
 RATE = 16000
-CHUNK = int(RATE / 5)  # 100ms
+CHUNK = int(RATE / 20)  # 100ms
 
 os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = 'your/json/path'
 
